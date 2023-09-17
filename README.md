@@ -1,5 +1,5 @@
-- 🎀👋 Xin chào, tôi là @ xuanTruongIT04
-- 👀 Tôi quan tâm đến PHP and JS
+- 🎀👋 Hello, I'm @xuanTruongIT04.
+- 👀 I'm interested in PHP and JS.
 - 🌱 I’m currently learning in this field.
 - 💞️ I’m looking to collaborate on related projects.   
 - 📫 How to reach me on:
