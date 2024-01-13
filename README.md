@@ -3,9 +3,9 @@
 <h3>💻 Top languages:</h3>
 <br />
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"  height="170" width="150" alt="user coding" align="left" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"  height="170" width="250" alt="user coding" align="left" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xuanTruongIT04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="150" alt="languages graph" align="center"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"  height="170" width="150" alt="user coding" align="right" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif"  height="170" width="250" alt="user coding" align="right" />
 </div>
 
 <br />
