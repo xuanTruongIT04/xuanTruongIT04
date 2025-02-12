@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Trường and I'm 22 years old, from Thái Nguyên City</h2>
+<h2 align="left">Xuân Trường</h2>
 
 <h3>💻 Top languages:</h3>
 <br />
